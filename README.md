@@ -1,5 +1,6 @@
 # gittest
 
 creating a new branch is quck yeah!
+# gittest
 
-this is in master branch!!
+creating a new branch is quck yeah!
